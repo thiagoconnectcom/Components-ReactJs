@@ -22,7 +22,7 @@
     "element-dataset": "~2.2.6",
     "google-map-react": "~1.1.4",
     "ladda": "~2.0.1",
-    "moment": "~2.24.0",
+    "moment": "~2.29.2",
     "nouislider-react": "~3.3.2",
     "numeral": "~2.0.6",
     "p-min-delay": "~3.1.0",
